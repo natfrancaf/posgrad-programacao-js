@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "testes": "node testes/trabalho-final.js"
+    "testes": "mocha testes/*.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/natfrancaf/posgrad-programacao-js#readme",
   "devDependencies": {
-    "mocha": "^11.5.0",
-    "@playwright/test": "^1.47.2"
+    "@playwright/test": "^1.47.2",
+    "mocha": "^11.7.1"
   }
 }
