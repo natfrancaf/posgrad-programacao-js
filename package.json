@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/natfrancaf/posgrad-programacao-js#readme",
   "devDependencies": {
-    "mocha": "^11.5.0"
+    "mocha": "^11.5.0",
+    "@playwright/test": "^1.47.2"
   }
 }

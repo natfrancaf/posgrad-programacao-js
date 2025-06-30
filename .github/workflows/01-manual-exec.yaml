@@ -33,7 +33,7 @@ jobs:
       - name: Instalando dependências
         run: yarn
 
-      #instalação do Playwrigth
+      #instalação do Playwright
       - name: Instalando Playwright
         run: yarn playwright install
 
