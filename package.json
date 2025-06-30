@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "testes": "npx playwright /testes/trabalho-final.js"
+    "testes": "node testes/trabalho-final.js"
   },
   "repository": {
     "type": "git",
