@@ -33,10 +33,6 @@ jobs:
       - name: Instalando dependências
         run: yarn
 
-      #instalação do Playwright
-      - name: Instalando Playwright
-        run: yarn playwright install
-
       #executar os testes
       - name: Executando Testes
         run: yarn run testes
