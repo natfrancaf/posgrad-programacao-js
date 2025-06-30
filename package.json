@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "e2e": "npx playwright \testes\trabalho-final.js"
+    "testes": "npx playwright \testes\trabalho-final.js"
   },
   "repository": {
     "type": "git",
